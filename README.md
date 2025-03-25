@@ -1,5 +1,7 @@
 # Praktikum 5: Job Control
 
+#Eka Prasetya Adi Nugraha/ 09030282428041 / TK2B
+
 ## Jawaban Tugas
 
 ### 1. Eksekusi Seluruh Profile yang Ada
