@@ -15,8 +15,7 @@ Tambahkan:
 ```bash
 echo "Profile dari /etc/profile"
 ```
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/1c3009fa-2e24-4f4d-9414-0c75d4cbb544)
 
 #### b. Edit Profile Pengguna
 ```bash
