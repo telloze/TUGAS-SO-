@@ -15,6 +15,7 @@ Tambahkan:
 ```bash
 echo "Profile dari /etc/profile"
 ```
+https://github.com/telloze/TUGAS-SO-/blob/main/Screenshot_2025-03-25_03_39_27.png
 
 #### b. Edit Profile Pengguna
 ```bash
